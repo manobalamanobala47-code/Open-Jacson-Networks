@@ -67,3 +67,4 @@ print("----------------------------------------------------------------------")
 <img width="713" height="422" alt="image" src="https://github.com/user-attachments/assets/86fae3a1-3b49-4f2a-9091-bfd9157fef91" />
 
 ## Result
+Thus, Python simulates an open Jackson network to calculate queue metrics for conveyor systems.
